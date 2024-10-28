@@ -1,5 +1,5 @@
 {
-  "homepage": "https://mertciril/github.io/react-project",
+  "homepage": "https://mertciril.github.io/react-project",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build ",
     "build": "react-scripts build",
     "test": "react-scripts test", 
     "eject": "react-scripts eject"
